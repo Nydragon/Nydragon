@@ -7,7 +7,7 @@ I am a fourth year computer science student at Epitech. Linux, FOSS, Homelabbing
 I focus on writing tools in Rust and contributing to [OpenStreetMap](https://www.openstreetmap.org/).
 
 > [!NOTE]
-> I am on the lookout for an end of studies internship. If I caught your eye, please reach out to me via [mail](mailto:d99tbwy91@mozmail.com).
+> I am on the lookout for an end of studies internship. Please reach out to me via [mail](mailto:d99tbwy91@mozmail.com) if you are interested.
 
 Some projects I worked on are:
 
