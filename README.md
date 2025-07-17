@@ -1,6 +1,6 @@
 # Hello There
 
-I am a fourth year computer science student at Epitech. Linux, FOSS, Homelabbing and tinkering with my system is what I spend my time on.
+I am a fifth year computer science student at Epitech. Linux, FOSS, Homelabbing and tinkering with my system is what I spend my time on.
 
 Some projects I worked on are:
 
